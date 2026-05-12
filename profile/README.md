@@ -14,6 +14,7 @@ URL : https://example.com
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [ERD](#erd)
+- [API] (#api)
 
 ---
 
@@ -43,5 +44,7 @@ URL : https://example.com
 - 데이터베이스: MySQL 8.0
 - 클라우드 스토리지: AWS S3
 - 주요 기술: OpenAI Whisper (Hugging Face), Anthropic Claude 3 Haiku (LLM), Spring Security & JWT, Spring WebClient, FFmpeg, GitHub Actions, Linux Swap Memory
- 
+---
+
+##  API
 
