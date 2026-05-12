@@ -49,6 +49,11 @@ URL : https://example.com
 ---
 
 ## ERD
+<p align="center">
+  <img src="../ERD.png" width="800"/>
+</p>
+
+--- 
 
 ##  API
 <p align="center">
