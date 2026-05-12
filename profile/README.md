@@ -14,7 +14,7 @@ URL : https://example.com
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [ERD](#erd)
-- [API] (#api)
+- [API](#api)
 
 ---
 
@@ -27,7 +27,7 @@ URL : https://example.com
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="./architecture.png" width="800"/>
+  <img src="architecture.png" width="800"/>
 </p>
 
 ---
