@@ -5,7 +5,7 @@
 URL : https://example.com
 
 시연영상(Youtube) : https://youtube.com/xxxx
-
+ 
 ---
 
 ## 🔮 Table of Contents
@@ -29,6 +29,7 @@ URL : https://example.com
 <p align="center">
   <img src="./architecture.png" width="800"/>
 </p>
+
 ---
 
 ## ⚒️ Tech Stack
@@ -44,6 +45,7 @@ URL : https://example.com
 - 데이터베이스: MySQL 8.0
 - 클라우드 스토리지: AWS S3
 - 주요 기술: OpenAI Whisper (Hugging Face), Anthropic Claude 3 Haiku (LLM), Spring Security & JWT, Spring WebClient, FFmpeg, GitHub Actions, Linux Swap Memory
+  
 ---
 
 ##  API
