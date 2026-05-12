@@ -50,10 +50,10 @@ URL : https://example.com
 
 ##  API
 <p align="center">
-  <img src="../remaster_api1" width="800"/>
+  <img src="../remaster_api1.png" width="800"/>
 </p>
 <p align="center">
-  <img src="../remaster_api2" width="800"/>
+  <img src="../remaster_api2.png" width="800"/>
 </p>
 
 ---
