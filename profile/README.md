@@ -55,5 +55,17 @@ URL : https://example.com
 <p align="center">
   <img src="../remaster_api2.png" width="800"/>
 </p>
+<p align="center">
+  <img src="../user-contoller_api1.png" width="800"/>
+</p>
+<p align="center">
+  <img src="../user-controler_api2.png" width="800"/>
+</p>
+<p align="center">
+  <img src="../training-controller_api.png" width="800"/>
+</p>
+<p align="center">
+  <img src="../log, social-auth, email-controller_api.png" width="800"/>
+</p>
 
 ---
